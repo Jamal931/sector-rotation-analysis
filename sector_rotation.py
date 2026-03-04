@@ -1,6 +1,6 @@
 # =============================================================================
 # S&P 500 Sector Rotation Analysis
-# Author: Your Name
+# Author: Jamaludeen Mohammed
 # Description: Pulls historical GICS sector ETF data, calculates rolling
 #              returns, and visualizes rotation patterns with business cycle
 #              annotations (2020–present).
