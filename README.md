@@ -11,7 +11,7 @@ A quantitative tool for analyzing business-cycle-driven rotation patterns across
 
 ## What This Does
 
-This project pulls historical price data for the 11 Select Sector SPDR ETFs (XLB, XLC, XLE, XLF, XLI, XLK, XLP, XLRE, XLU, XLV, XLY), representing every GICS sector in the S&P 500. It then:
+This project pulls historical price data for the 11 Select Sector SPDR ETFs (XLB (Materials), XLC(Communication Services), XLE(Energy), XLF(Finance), XLI(Industrials), XLK(Technology), XLP(Consumer Staples), XLRE (Real Estate), XLU (Utilities), XLV ( Health Care), XLY ( Consumer Discretionary) ), representing every GICS sector in the S&P 500. It then:
 
 - Calculates **rolling quarterly returns** to surface rotation trends
 - Builds a **sector heatmap** showing which sectors lead/lag each month
