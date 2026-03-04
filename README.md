@@ -2,7 +2,6 @@
 # S&P 500 Sector Rotation Analysis
 
 A quantitative tool for analyzing business-cycle-driven rotation patterns across all 11 GICS sectors using historical ETF data.
-live chart: file:///Users/jamaludeenmohammed/Desktop/IB%20PREP/financial-analysis-projects/S&P%20500%20PROJECT/output/04_cumulative_cycle.html
 
 <img width="1451" height="554" alt="Screenshot 2026-03-04 at 12 06 57" src="https://github.com/user-attachments/assets/dbb9e710-21cc-4e32-ab94-8ead67ea66aa" />
 <img width="1470" height="609" alt="Screenshot 2026-03-04 at 12 06 43" src="https://github.com/user-attachments/assets/d27374c6-b5b6-41b0-a8aa-de117d4ba863" />
